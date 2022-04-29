@@ -1,0 +1,27 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.exe.config
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.exe
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.pdb
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.csprojResolveAssemblyReference.cache
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.Form1.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.Properties.Resources.resources
+D:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.csproj.GenerateResource.Cache
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.exe.config
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.exe
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.pdb
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.exe
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\bin\Debug\projetojogodaforca.pdb
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.csprojResolveAssemblyReference.cache
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.Form1.resources
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.Properties.Resources.resources
+E:\Arquivos\ETEC 2ºModulo\DS\Jogo da Forca\projetojogodaforca\obj\Debug\projetojogodaforca.csproj.GenerateResource.Cache
